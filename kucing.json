@@ -1,0 +1,18 @@
+[
+{"type":"header","version":"5.2.1","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"kucing_db"},
+{"type":"table","name":"kucing","database":"kucing_db","data":
+[
+{"id":"1","nama":"Luna","ras":"Persia","umur":"2","warna":"Putih","foto":"https:\/\/i.pinimg.com\/736x\/dc\/14\/91\/dc1491d3f5fa357926c873be8036943c.jpg"},
+{"id":"2","nama":"Tom","ras":"British Shorthair","umur":"3","warna":"Abu-abu","foto":"https:\/\/i.pinimg.com\/736x\/45\/61\/93\/456193642fd72afecb5938825bbd2514.jpg"},
+{"id":"3","nama":"Kitty","ras":"Siam","umur":"1","warna":"Coklat","foto":"https:\/\/i.pinimg.com\/736x\/c5\/02\/77\/c50277cdb9ccd7f8d9d1e8873103320a.jpg"},
+{"id":"4","nama":"Simba","ras":"Maine Coon","umur":"4","warna":"Hitam","foto":"https:\/\/i.pinimg.com\/736x\/1e\/1d\/fc\/1e1dfc2ecd833d8d019dbbc70da600c5.jpg"},
+{"id":"5","nama":"Mochi","ras":"Anggora","umur":"2","warna":"Putih","foto":"https:\/\/i.pinimg.com\/736x\/83\/c7\/8c\/83c78ccbb5cf4207af37174f7adf099b.jpg"},
+{"id":"6","nama":"Leo","ras":"Bengal","umur":"3","warna":"Oranye","foto":"https:\/\/i.pinimg.com\/736x\/57\/0b\/78\/570b78136f6f57b760bf1134a15ea88e.jpg"},
+{"id":"7","nama":"Momo","ras":"Scottish Fold","umur":"1","warna":"Cream","foto":"https:\/\/example.com\/images\/momo.jpg"},
+{"id":"8","nama":"Oyen","ras":"Domestic","umur":"5","warna":"Oren","foto":"https:\/\/i.pinimg.com\/736x\/f8\/c2\/4f\/f8c24f4f885b1632413fa715ab221c6f.jpg"},
+{"id":"9","nama":"Snow","ras":"Ragdoll","umur":"2","warna":"Putih Abu","foto":"https:\/\/i.pinimg.com\/736x\/88\/bc\/be\/88bcbe6d9d568768fec6b10c10634aa9.jpg"},
+{"id":"10","nama":"Ciko","ras":"Sphynx","umur":"3","warna":"Pink","foto":"https:\/\/i.pinimg.com\/736x\/a7\/ec\/9b\/a7ec9bdb3f07cbba4e43893397584877.jpg"}
+]
+}
+]
