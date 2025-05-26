@@ -1,8 +1,4 @@
 [
-{"type":"header","version":"5.2.1","comment":"Export to JSON plugin for PHPMyAdmin"},
-{"type":"database","name":"kucing_db"},
-{"type":"table","name":"kucing","database":"kucing_db","data":
-[
 {"id":"1","nama":"Luna","ras":"Persia","umur":"2","warna":"Putih","foto":"https:\/\/i.pinimg.com\/736x\/dc\/14\/91\/dc1491d3f5fa357926c873be8036943c.jpg"},
 {"id":"2","nama":"Tom","ras":"British Shorthair","umur":"3","warna":"Abu-abu","foto":"https:\/\/i.pinimg.com\/736x\/45\/61\/93\/456193642fd72afecb5938825bbd2514.jpg"},
 {"id":"3","nama":"Kitty","ras":"Siam","umur":"1","warna":"Coklat","foto":"https:\/\/i.pinimg.com\/736x\/c5\/02\/77\/c50277cdb9ccd7f8d9d1e8873103320a.jpg"},
@@ -13,6 +9,4 @@
 {"id":"8","nama":"Oyen","ras":"Domestic","umur":"5","warna":"Oren","foto":"https:\/\/i.pinimg.com\/736x\/f8\/c2\/4f\/f8c24f4f885b1632413fa715ab221c6f.jpg"},
 {"id":"9","nama":"Snow","ras":"Ragdoll","umur":"2","warna":"Putih Abu","foto":"https:\/\/i.pinimg.com\/736x\/88\/bc\/be\/88bcbe6d9d568768fec6b10c10634aa9.jpg"},
 {"id":"10","nama":"Ciko","ras":"Sphynx","umur":"3","warna":"Pink","foto":"https:\/\/i.pinimg.com\/736x\/a7\/ec\/9b\/a7ec9bdb3f07cbba4e43893397584877.jpg"}
-]
-}
 ]
